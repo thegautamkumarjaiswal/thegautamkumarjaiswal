@@ -1,12 +1,12 @@
 ### Hi I am Gautam kumar jaiswal 👋
 
 
-Hii! I am Gautam kumar jaiswal, currently studying Information Technology from HMR Institute of Technology and Management..
+Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management..
 
-- 👯 I’m willing and enthusiasm to collaborate on open source projects, Data Science and ML, Artificial Intelligence.
+- 👯 I’m willing and enthusiasm to collaborate on Open Source Projects, Data Science and ML, Artificial Intelligence.
 
 - 📫 How to reach me: gautamjaiswal030@gmail.com
-- 🌱 I’m currently learning python programming language and Data Science.
+- 🌱 I’m currently learning python programming language and working on real world datesets and Data Science, ML's model.
 - 😄 Pronouns: he/his.
 
 <a href="mailto:gautamjaiswal030@gmail.com">
