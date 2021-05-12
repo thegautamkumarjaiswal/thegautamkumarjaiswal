@@ -8,14 +8,15 @@ Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Informa
 - 😄 Pronouns: He/His/Him.
 
 
-## Industrial Knowledge Skills 🧮:
-Programming(Python, C/C++), Digital Marketing, Data Strcutres and Algorithms, ChatBots, Cloud Computing.
 
-## Tools & TEcHnologies 🛠:
-GCP, Microsoft Azure, AWS, Ms-Office, Atom, Github, Bootstrap Studio, GKE.
+### Industrial Knowledge Skills 🧮:
+> Programming(Python, C/C++), Digital Marketing, Data Strcutres and Algorithms, ChatBots, Cloud Computing.
 
-## Interpersonal Skills 👤:
-Pubic Speaking, Leadership, Problem solving, Fundraiser, Teaching, Team Motivation.
+### Tools & Technologies 🛠:
+> GCP, Microsoft Azure, AWS, Ms-Office, Atom, Github, Bootstrap Studio, GKE.
+
+### Interpersonal Skills 👤:
+> Pubic Speaking, Leadership, Problem solving, Fundraiser, Teaching, Team Motivation.
 
 
 
