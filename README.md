@@ -1,13 +1,25 @@
 ### Hi I am Gautam kumar jaiswal 👋
 
 
-Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management..
+Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management.
 
-- 👯 I’m willing and enthusiasm to collaborate on Open Source Projects, Data Science and ML, Artificial Intelligence.
+- 👯 I’m willing and enthusiast to collaborate in Open Source Projects, Data Science and ML, Artificial Intelligence.
 
 - 📫 How to reach me: gautamjaiswal030@gmail.com
 - 🌱 I’m currently learning python programming language and working on real world datesets and Data Science, ML's model.
-- 😄 Pronouns: he/his.
+- 😄 Pronouns: He/His/Him.
+
+
+# Programming Language: 
+C/C++, Python.
+
+# Technology:
+Bootstrap, HTML, CSS, JavaScript, SQL, Azure.....
+
+# Tools:
+Google Cloud Platform, Microsoft Azure, AWS, Apache Spark, Kubernetes, Android Studio, Bootstrap Studio..
+
+
 
 <a href="mailto:gautamjaiswal030@gmail.com">
 <img align="left" alt="Gautam kumar jaiswal's Email" width="22px" src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;">
@@ -16,4 +28,3 @@ Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Informa
 <a href="https://www.linkedin.com/in/gautam-kumar-jaiswal-2a3b601a3" rel="nofollow">
   <img align="left" alt="Gautam kumar jaiswal's LinkdeIN" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
 </a>
-
