@@ -3,21 +3,19 @@
 
 Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management.
 
-- 👯 I’m willing and enthusiast to collaborate in Open Source Projects, Data Science and ML, Artificial Intelligence.
-
+- 👯 I’m an Open Source enthusiast with joy. I am passionate to work in Data Science, Machine Learning and Cloud.
 - 📫 How to reach me: gautamjaiswal030@gmail.com
-- 🌱 I’m currently learning python programming language and working on real world datesets and Data Science, ML's model.
 - 😄 Pronouns: He/His/Him.
 
 
-# Programming Language: 
-C/C++, Python.
+## Industrial Knowledge Skills 🧮:
+Programming(Python, C/C++), Digital Marketing, Data Strcutres and Algorithms, ChatBots, Cloud Computing.
 
-# Technology:
-Bootstrap, HTML, CSS, JavaScript, SQL, Azure.....
+## Tools & TEcHnologies 🛠:
+GCP, Microsoft Azure, AWS, Ms-Office, Atom, Github, Bootstrap Studio, GKE.
 
-# Tools:
-Google Cloud Platform, Microsoft Azure, AWS, Apache Spark, Kubernetes, Android Studio, Bootstrap Studio..
+## Interpersonal Skills 👤:
+Pubic Speaking, Leadership, Problem solving, Fundraiser, Teaching, Team Motivation.
 
 
 
