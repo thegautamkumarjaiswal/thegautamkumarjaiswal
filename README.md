@@ -10,13 +10,13 @@ Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Informa
 
 
 ### Industrial Knowledge Skills 🧮:
-> Programming(Python, C/C++), Digital Marketing, Data Strcutres and Algorithms, ChatBots, Cloud Computing.
-
-### API's:
-> Github API, Postman, Scikit-learn API, Tensorflow API, Kubernetes...
+> Programming(Python, C/C++), SQL, Digital Marketing, Data Strcutres and Algorithms, ChatBots, Cloud Computing.
 
 ### Tools & Technologies 🛠:
-> GCP, Microsoft Azure, AWS, Ms-Office, Atom, Github, Bootstrap Studio, GKE.
+> GCP, Microsoft Azure, PyCharm, VS code, Conda, AWS, Ms-Office, Atom, Github, Bootstrap Studio, GKE.
+
+### Others:
+> Github API, Postman, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Kubernetes...
 
 ### Interpersonal Skills 👤:
 > Pubic Speaking, Leadership, Problem solving, Fundraiser, Teaching, Team Motivation.
