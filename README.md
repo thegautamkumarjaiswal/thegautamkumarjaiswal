@@ -6,6 +6,8 @@ Hii! I am Gautam kumar jaiswal, I am an Undergraduate pursuing B.Tech in Informa
 - 👯 I’m an Open Source enthusiast with joy. I am passionate to work in Data Science, Machine Learning and Cloud.
 - 📫 How to reach me: gautamjaiswal030@gmail.com
 - 😄 Pronouns: He/His/Him.
+- :india: Nationality: Indian
+
 
 
 
