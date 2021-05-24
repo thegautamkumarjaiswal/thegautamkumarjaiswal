@@ -15,4 +15,4 @@
 
 [@TheSparkFoundation](https://www.thesparksfoundationsingapore.org/) - worked as a Data Science & Business Analytics Intern. Worked on some projects related to ML, Data Science, gained confidence to work in community. Kmowldege of git and github.
 
-[@CadboursSystems](https://www.candoursystems.com/) - as an Android Development Intern worked on some real projects within community. Build Android Bluetooth Messanger App on Android Studio using Java, used some api's(blueetoth api). Best part of internship is to learn soft skills thats I learned. 
+[@CadboursSystems](https://drive.google.com/file/d/1-VOLjQcark0rhBqhLKVbkl6ADYj6sgGd/view?usp=sharing) - as an Android Development Intern worked on some real projects within community. Build Android Bluetooth Messanger App on Android Studio using Java, used some api's(blueetoth api). Best part of internship is to learn soft skills thats I learned. 
