@@ -5,15 +5,15 @@
 
 ## About me 🙋‍♂️
 - 😁 I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management.
-- 👯 I’m an Open Source enthusiast with joy. I am passionate to work in AI, DevOps, Data Science, Machine Learning and Cloud.
+- 👯 I’m an Open Source enthusiast. I am passionate to work in AI, DevOps, Data Science, Machine Learning and Cloud.
 - 😄 Pronouns: He/His/Him.
 - :india: Nationality: Indian
 
 
 ## Experience 🙌
-[@TheSparkFoundation](https://drive.google.com/file/d/1Q5U5-J5_1JjzMAmhXG-abgNUGqGe-hDO/view?usp=sharing) - worked as a Data Science & Business Analytics Intern. Worked on some projects related to ML, Data Science, gained confidence to work in community. Kmowldege of git and github.
+[@TheSparkFoundation](https://drive.google.com/file/d/1Q5U5-J5_1JjzMAmhXG-abgNUGqGe-hDO/view?usp=sharing) - worked as a Data Science & Business Analytics Intern. Worked on some projects related to ML, Data Science, gained confidence to work in community. Knowldege of Git and Github.
 
-[@CandoursSystems](https://drive.google.com/file/d/1-VOLjQcark0rhBqhLKVbkl6ADYj6sgGd/view?usp=sharing) - as an Android Development Intern worked on some real projects within community. Build Android Bluetooth Messanger App on Android Studio using Java, used some api's(blueetoth api). Best part of internship is to learn soft skills thats I learned. 
+[@CandoursSystems](https://drive.google.com/file/d/1-VOLjQcark0rhBqhLKVbkl6ADYj6sgGd/view?usp=sharing) - as an Android Development Intern worked on some real projects within community. Build Android Bluetooth Messanger App on Android Studio using Java, used some Api's(Blueetoth Api). Best part of internship is to learn soft skills thats I learned. 
 
 [@Youth4Work](https://drive.google.com/file/d/1-H0V7up-UB7J0XyyRImC7jqJDEUA9x_E/view?usp=sharing) - worked as a Content Marketing Intern ib various field related to branding, promotion and content creation for organization. Also wirte a blog on . Learned various marketing like - Online marketing, Email marketing and all. This is best platform for test and interview preperations, also for competative exams.
 
