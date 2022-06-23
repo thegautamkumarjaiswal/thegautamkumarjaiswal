@@ -11,6 +11,8 @@
 
 
 ## Experience 🙌
+[@IDEX-DIO (Spheruler solutions)](https://idex.gov.in/) - Collaborating with a team of 3 members for developing a bore-sighting / alignment system for SU -30 MKl aircraft sensors, tray and weapon adaptors. Idex challenge solution under the Spheruler solutions, IIT madras based start-up. We are communicating under the Ministry of Defence.
+
 [@TheSparkFoundation](https://drive.google.com/file/d/1Q5U5-J5_1JjzMAmhXG-abgNUGqGe-hDO/view?usp=sharing) - worked as a Data Science & Business Analytics Intern. Worked on some projects related to ML, Data Science, gained confidence to work in community. Knowldege of Git and Github.
 
 [@CandoursSystems](https://drive.google.com/file/d/1-VOLjQcark0rhBqhLKVbkl6ADYj6sgGd/view?usp=sharing) - as an Android Development Intern worked on some real projects within community. Build Android Bluetooth Messanger App on Android Studio using Java, used some Api's(Blueetoth Api). Best part of internship is to learn soft skills thats I learned. 
