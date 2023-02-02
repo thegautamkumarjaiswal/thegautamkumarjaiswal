@@ -4,13 +4,15 @@
 
 
 ## About me 🙋‍♂️
-- 😁 I am an Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management.
-- 👯 I’m an Open Source enthusiast. I am passionate to work in AI, DevOps, Data Science, Machine Learning and Cloud.
+- 😁 I am an Senior Undergraduate pursuing B.Tech in Information Technology from HMR Institute of Technology and Management affiliated to GGSIP University, Delhi.
+- 👯 I’m an enthusiast of Open Source Development. I am passionate to work in AI specially in Deep Learning, Embedded Systems and Machine Learning. Other than these, I have an interest in Data Science, IoT, Augmented Reality and Cloud computing.
 - 😄 Pronouns: He/His/Him.
 - :india: Nationality: Indian
 
 
 ## Experience 🙌
+[@Space Application Centre, ISRO](https://www.sac.gov.in/) - Working on satellite images and identification of small objects like trees, buildings, cars, road extraction models. R&D on new deep learning techniques related to instance segmentation and object detection. Symmetric surveys and time series analysis on satellite data. Research and study on different State-of-the-Art (SOTA) deep learning algorithms (ex: YOLO, F-CNN, U-Net).
+
 [@IDEX-DIO (Spheruler solutions)](https://idex.gov.in/) - Collaborating with a team of 3 members for developing a bore-sighting / alignment system for SU -30 MKl aircraft sensors, tray and weapon adaptors. Idex challenge solution under the Spheruler solutions, IIT madras based start-up. We are communicating under the Ministry of Defence.
 
 [@TheSparkFoundation](https://drive.google.com/file/d/1Q5U5-J5_1JjzMAmhXG-abgNUGqGe-hDO/view?usp=sharing) - worked as a Data Science & Business Analytics Intern. Worked on some projects related to ML, Data Science, gained confidence to work in community. Knowldege of Git and Github.
